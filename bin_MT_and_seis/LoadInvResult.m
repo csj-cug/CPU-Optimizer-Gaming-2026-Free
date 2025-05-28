@@ -1,0 +1,22 @@
+n               = InvResult.nIT ;
+m1              = InvResult.m1;
+alpha1          = InvResult.alpha1;
+misfit1         = InvResult.misfit1;
+M1Inv           = InvResult.M1Inv;
+Time            = InvResult.Time;
+Date            = InvResult.Date;
+InvPar          = InvResult.InvPar;
+Nmx             = InvPar.Nmx;
+Nmy             = InvPar.Nmy;
+Nmz             = InvPar.Nmz;
+mx              = InvPar.mx;
+my              = InvPar.my;
+mz              = InvPar.mz;
+dmx             = InvPar.dmx;
+dmy             = InvPar.dmy;
+dmz             = InvPar.dmz;
+d1pre           = InvResult.d1pre;
+d1              = InvResult.dobs;
+m1max          = InvPar.m1max;
+m1min          = InvPar.m1min;
+%=================================
