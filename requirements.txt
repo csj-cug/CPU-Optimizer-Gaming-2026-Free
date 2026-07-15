@@ -1,0 +1,7 @@
+win32api
+beautifulsoup4
+mouse
+opencv-python
+pyautogui
+pillow
+keyboard
